@@ -1,0 +1,116 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Aug 16, 2023, 8:09:08 PM
+    Author     : DELL
+*/
+
+.card-registration .select-input.form-control[readonly]:not([disabled]) {
+    font-size: 1rem;
+    line-height: 2.15;
+    padding-left: .75em;
+    padding-right: .75em;
+}
+
+.card-registration .select-arrow {
+    top: 13px;
+}
+
+.bg-grey {
+    background-color: #eae8e8;
+}
+
+.inputAmount {
+    width: 40%;
+    text-align: center;
+}
+
+.inputAmount[type="number"]::-webkit-inner-spin-button,
+.inputAmount[type="number"]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+.inputAmount[type="number"] {
+    appearance: textfield;
+    -moz-appearance: textfield;
+    /* Firefox */
+}
+
+.btn-volume {
+    border: none;
+    background: transparent;
+}
+
+.form-voucher input {
+    width: 80%;
+    float: right;
+    border: none;
+    font-size: 1rem;
+    padding: 0.5rem;
+}
+
+.form-voucher button {
+    float: right;
+    border: none;
+    background: transparent;
+    padding-top: 0.5rem;
+    font-weight: 500;
+}
+
+.form-voucher span {
+    position: absolute;
+    right: 0;
+    bottom: -1.5rem;
+    color: red;
+    font-weight: bold;
+}
+
+li {
+    list-style: none;
+}
+
+ul {
+    padding: 0;
+}
+
+.payment ul li label {
+    color: black;
+    font-size: 14px;
+    border-radius: 0.5rem;
+}
+
+.form-control {
+    outline-color: black;
+}
+
+.check-out h5 {
+    font-size: 1.15rem;
+}
+
+.unit {
+    position: absolute;
+    right: 0;
+    font-weight: bold;
+}
+
+.padding-right-2 {
+    padding-right: 2.4rem;
+}
+
+.padding-right-1 {
+    padding-right: 1rem;
+}
+
+.button-control {
+    background: transparent;
+    border: none;
+}
+
+.color-dark {
+    color: black;
+}
+

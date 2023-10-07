@@ -1,0 +1,60 @@
+/* Set up variable color */
+:root {
+    --primary-color: #8833ff;
+}
+
+
+/* form upload image */
+.form-input img {
+    width: 100%;
+    display: none;
+    margin-top: 1.5rem;
+}
+
+.form-input input {
+    display: none;
+}
+
+.form-input label {
+    width: 35%;
+    height: 45px;
+    line-height: 50px;
+    text-align: center;
+    background: var(--primary-color);
+    color: #fff;
+    font-size: 15px;
+    font-family: "Open Sans", sans-serif;
+    text-transform: Uppercase;
+    font-weight: 600;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/*--------------*/
+
+/* Account */
+
+.filter-account .btn {
+    padding: 0;
+    margin-left: 0.3rem;
+    border: none;
+}
+
+/*--------------*/
+
+/* custom */
+
+.form-icon {
+    background: transparent;
+    border: none;
+}
+
+.margin-right-1 {
+    margin-right: 0.4rem;
+}
+
+/*--------------*/
+
+
+
+
