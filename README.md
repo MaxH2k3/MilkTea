@@ -1,5 +1,12 @@
 # MilkTea store
 
+* Account Admin:
+  admin
+  123
+* Account Customer:
+  Customer1
+  123
+
 * Main feature:
 * CRUD User, product
 * Online ordering and payment processing.
